@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ArrayOfSplitFileModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SplitFileModel FileID="1" FileType="2" PlayCount="1" ResidenceTime="5" DisplayMode="2" FileOriginal="C:\Users\karlo\Downloads\video1.mp4">
-    <FileName>video1</FileName>
-  </SplitFileModel>
-</ArrayOfSplitFileModel>
