@@ -54,6 +54,9 @@ npm install
 # Ejecutar en servidor local en el puerto 5173
 npm run dev
 ```
+
+Por cuestión de tamaño de archivos la carpeta public se encuentra en drive con los assets del proyecto master en https://drive.google.com/file/d/1eilDF0POpNfzSLmZYpTZjNL-M80_dSH5/view?usp=drive_link
+
 ### Setup holograma
 Para la correcta ejecución es necesario disponer una segunda pantalla aparte de la utilizada en el glorificador.
 #### Conexión ventilador
