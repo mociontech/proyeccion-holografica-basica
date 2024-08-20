@@ -4,7 +4,7 @@ La proyección holográfica básica se realiza mediante un ventilador holográfi
 
 ## Flujo de la experiencia
 
-![Flujo de la experiencia](/holograma-basico//public/flujoexp.png)
+![Flujo de la experiencia](/flujoexp.png)
 
 1. Pantalla de bienvenida
 2. Pantalla de menú para seleccion de holograma deseado.
